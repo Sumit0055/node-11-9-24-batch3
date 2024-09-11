@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Northrup",
+        "last_name": "De Bruijn",
+        "email": "ndebruijn0@independent.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Shawna",
+        "last_name": "Dawbery",
+        "email": "sdawbery1@tinypic.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Anatol",
+        "last_name": "Lamprecht",
+        "email": "alamprecht2@nasa.gov",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 4,
+        "first_name": "Renado",
+        "last_name": "Woolfoot",
+        "email": "rwoolfoot3@unc.edu",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Sandy",
+        "last_name": "Sired",
+        "email": "ssired4@multiply.com",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 6,
+        "first_name": "Coop",
+        "last_name": "Soda",
+        "email": "csoda5@arizona.edu",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Marin",
+        "last_name": "Roskell",
+        "email": "mroskell6@about.me",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Mata",
+        "last_name": "Braznell",
+        "email": "mbraznell7@usda.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Mari",
+        "last_name": "Crickett",
+        "email": "mcrickett8@lulu.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Ulla",
+        "last_name": "Ivery",
+        "email": "uivery9@devhub.com",
+        "gender": "Genderfluid"
+    }
+]
